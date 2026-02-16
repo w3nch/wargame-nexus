@@ -31,14 +31,13 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 ### General
 
 - [pwn.college](https://pwn.college) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
-- [PicoCTF](http://picoctf.com) <img src="https://img.shields.io/badge/recommended-yes-green.svg"> <img src="https://img.shields.io/badge/difficulty-beginner-green.svg">
 - [root-me](http://root-me.org) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [W3Challs](https://w3challs.com/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [WeChall](http://www.wechall.net/) <img src="https://img.shields.io/badge/recommended-yes-green.svg">
 - [247CTF](https://247ctf.com)
 - [0x539](https://0x0539.net/)
 - [ATENEA](https://atenea.ccn-cert.cni.es/) <img src="https://img.shields.io/badge/language-spanish-orange.svg"> <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
-- [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/)
+- [Block Harbor Automotive Cybersecurity](https://ctf.blockharbor.io/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [BUUCTF](https://buuoj.cn/challenges)
 - [CodeEngn](http://ch.codeengn.com/) <img src="https://img.shields.io/badge/language-korean-orange.svg"> <img src="https://img.shields.io/badge/status-dead-red.svg">
 - [CTFLearn](https://ctflearn.com/)
@@ -233,7 +232,7 @@ The chals below are listed with recommended ones first, then the rest in alphabe
 Developing some core CS skills can be useful for security as well!
 
 - [Advent of Code](https://adventofcode.com/) <img src="https://img.shields.io/badge/scoring-no-lightgrey.svg">
-- [CMD Challenge](https://cmdchallenge.com/)
+- [CMD Challenge](https://cmdchallenge.com/) <img src="https://img.shields.io/badge/heartbeat-failed-red.svg">
 - [CodinGame](https://www.codingame.com/)
 - [Codewars](https://www.codewars.com/)
 - [Exercism](https://exercism.org/)
@@ -272,6 +271,7 @@ I track them here to periodically check for their return (which does happen some
 -  [HackerGateway](https://www.hackergateway.com/) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [The OSINT Lab](https://theosintlab.com)
 -  [ThisisLegal.com](https://www.thisislegal.com/)
+-  [PicoCTF](https://picoctf.org) <img src="https://img.shields.io/badge/status-dead-red.svg">
 -  [XSS PwnFunction](https://xss.pwnfunction.com/)
 
 ## Other Indexes
